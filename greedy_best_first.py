@@ -38,7 +38,7 @@ def greedy_best_first(draw, grid, start, end):
 				came_from[neighbor] = current
 				frontier.put((f_score[neighbor], count, neighbor))
 				frontier_hash.add(neighbor)
-				neighbor.make_visited()
+			neighbor.make_visited()
 
 		draw()
 
