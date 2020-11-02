@@ -2,6 +2,10 @@
 
 Welcome to Pathfinding Visualizer using Python!
 
+<img src="images/pathfinding-visualizer.png"
+     alt="GUI"
+     style="display: block; margin-left: auto; margin-right: auto; width: 80%;"/>
+
 I came across this [Pathfnding visualizer project](https://github.com/clementmihailescu/Pathfinding-Visualizer) of Clément Mihailescu using CSS and Javascript, and I thought that it was a great idea to visualize the algorithms in action. I implemented some of them in Python, and used [pygame](https://www.pygame.org/docs/) and [pygame-gui](https://pygame-gui.readthedocs.io/en/latest/index.html) to build the user interface. 
 
 Feel free to contact me if there is any error in the code or if you want to contribute :) 
